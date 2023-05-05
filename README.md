@@ -8,6 +8,8 @@ This is the second part of configuring the Huawei FusionCompute Solution as part
 * CNA01 : - IP: 172.16.16.227
 * VRM : - IP: 172.16.16.247
 
+Informations source: https://wiki.openstack.org/wiki/FusionCompute
+
 # Accessing the FusionCompute Dashboard
 ## Logging In 
 ![image](https://user-images.githubusercontent.com/91763346/236562136-a4abf79b-ac6f-4bef-ba7b-285435861316.png)
